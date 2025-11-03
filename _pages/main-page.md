@@ -5,8 +5,6 @@ layout: splash
 author_profile: true
 header: 
     overlay_image: /assets/images/header.jpeg
-    align: center
-    padding_top: 40
     actions:
         - label: "View Previous Projects"
           url: "/projects/"
@@ -14,5 +12,9 @@ header:
           url: "/contact/" 
 excerpt: "Automating GIS Workflows for Environmental Applications"
 ---
-
-{% include feature_row id ="header" type="center" %}
+<style>
+.splash .splash-inner {
+  align-items: center;
+}
+</style>
+---
