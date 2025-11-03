@@ -6,7 +6,7 @@ author_profile: true
 header: 
     overlay_image: /assets/images/header.jpeg
     align: center
-    padding_top: 20
+    padding_top: 40
     actions:
         - label: "View Previous Projects"
           url: "/projects/"
