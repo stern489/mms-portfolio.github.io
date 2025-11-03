@@ -1,7 +1,9 @@
 main:
   - title: "Main Page"
     url: /Main Page/
-  - title: "Resume"
+  - title: "About Me"
     url: /resume/
   - title: "Projects"
     url: /projects/
+  - title: "Contact Me"
+    url: /contact/
