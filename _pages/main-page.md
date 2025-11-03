@@ -2,7 +2,6 @@
 title: "Miles Sterner"
 permalink: /Main Page/
 layout: splash
-author_profile: true
 header: 
     overlay_image: /assets/images/header.jpeg
     actions:
@@ -14,6 +13,7 @@ excerpt: "Automating GIS Workflows for Environmental Applications"
 ---
 <style>
 .splash .splash-inner {
+  height: 100vh;
   display: flex;
   flex-direction: column;
   justify-content: center;
