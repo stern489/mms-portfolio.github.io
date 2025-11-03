@@ -1,6 +1,6 @@
 ---
 title: "Posts by Tag"
-permalink: /resume/
+permalink: /contact/
 layout: tags
 author_profile: true
 ---
