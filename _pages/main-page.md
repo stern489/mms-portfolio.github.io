@@ -1,6 +1,6 @@
 ---
 title: ""
-permalink: /Main Pagve/
+permalink: /Main Page/
 layout: splash
 author_profile: true
 header: 
@@ -8,6 +8,6 @@ header:
     actions:
         - label: "View Previous Projects"
           url: "/projects/"
-        - label: "Resume and CV"
+        - label: "About Me"
           url: "/resume/" 
 excerpt: "Automating GIS Workflows for Environmental Applications"
