@@ -11,4 +11,3 @@ header:
         - label: "Resume and CV"
           url: "/resume/" 
 excerpt: "Automating GIS Workflows for Environmental Applications"
----

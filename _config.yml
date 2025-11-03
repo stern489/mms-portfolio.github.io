@@ -16,14 +16,13 @@
 domain: mms-portfolio.github.io 
 url: https://mms-portfolio.github.io
 
-title: MM
-email:
+title: Miles Sterner - Geospatial Analyst
+email: stern489@umn.edu
 description: >- # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
   Google search results) and in your feed.xml site description.
-twitter_username: username
-github_username: username
+github_username: stern489
 minimal_mistakes_skin: default
 search: true
 
