@@ -14,7 +14,11 @@ excerpt: "Automating GIS Workflows for Environmental Applications"
 ---
 <style>
 .splash .splash-inner {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
   align-items: center;
+  text-align: center;
 }
 </style>
 ---
