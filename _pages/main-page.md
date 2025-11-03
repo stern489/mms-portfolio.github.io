@@ -21,4 +21,3 @@ excerpt: "Automating GIS Workflows for Environmental Applications"
   text-align: center;
 }
 </style>
----
