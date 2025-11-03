@@ -1,5 +1,5 @@
 ---
-title: ""
+title: "Miles Sterner"
 permalink: /Main Page/
 layout: splash
 author_profile: true
@@ -14,3 +14,5 @@ header:
           url: "/contact/" 
 excerpt: "Automating GIS Workflows for Environmental Applications"
 ---
+
+{% include feature_row id ="header" type="center" %}
