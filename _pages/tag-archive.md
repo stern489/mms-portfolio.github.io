@@ -1,6 +1,5 @@
 ---
 title: "Contact Me"
-layout: page
 permalink: /contact/
 ---
 <h1>Reach Out!</h1>
