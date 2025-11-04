@@ -1,6 +1,7 @@
 ---
 title: "Contact Me"
 permalink: /contact/
+author_profile = false
 ---
 <form action="https://formspree.io/f/mwpwdgoq" method="POST">
   <div style="display: flex; gap: 20px;">
