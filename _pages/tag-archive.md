@@ -2,7 +2,7 @@
 title: "Contact Me"
 permalink: /contact/
 ---
-<form action="https://formspree.io/f/abcd1234" method="POST">
+<form action="https://formspree.io/f/mwpwdgoq" method="POST">
   <div style="display: flex; gap: 20px;">
     <div style="flex: 1;">
       <label for="fname">First name *</label><br>
