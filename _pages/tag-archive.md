@@ -21,7 +21,7 @@ permalink: /contact/
   
   <div style="margin-top: 20px;">
     <label for="message">Write a message</label><br>
-    <textarea id="message" name="Message" rows="5" style="width: 100%; border: none; border-bottom: 2px solid black; padding: 5px;"></textarea>
+    <textarea id="message" name="Write something here!" rows="5" style="width: 100%; border: none; border-bottom: 2px solid black; padding: 5px;"></textarea>
   </div>
   
   <div style="margin-top: 30px;">
