@@ -2,9 +2,7 @@
 title: "Contact Me"
 permalink: /contact/
 ---
-<h1>Reach Out!</h1>
-
-<form action="mailto:mms.reader@gmail.com" method="post" enctype="text/plain">
+<form action="https://formspree.io/f/abcd1234" method="POST">
   <div style="display: flex; gap: 20px;">
     <div style="flex: 1;">
       <label for="fname">First name *</label><br>
