@@ -11,9 +11,17 @@ header:
           url: "/contact/" 
 excerpt: "Automating GIS Workflows for Environmental Applications"
 ---
-<section style = "display: flex; align-items: center; gap: 2rem; margin-top: 3rem; flex-wrap: wrap;">
-<img src ="{{ '/assets/images/headshot.jpg' | relative_url }}" style="width: 200px; height: 200px; border-radius: 50%; object-fit: cover; box-shadow: 0 4px 10px rgba(0,0,0,0.15);">
-<div style="max-width: 600px">
+<div style="width:85%; background-color: #ADD8E6; padding: 4rem 2rem; display: flex; justify-content: center;">
+  <div style = "display:flex; flex-wrap: wrap; align-items: center; justify-content: center;gap:3rem; max-width:1200px; width: 85%;">
+
+<!-- Headshot -->
+<div style = "flex: 1 1 300px; display: flex; justify-content: center;">
+  <img src ="{{ '/assets/images/headshot.jpg' | relative_url }}" 
+    style="width: 300px; height: 300px; border-radius: 50%; object-fit: cover; box-shadow: 0 4px 10px rgba(0,0,0,0.15);">
+</div>
+
+<!-- About Me Text -->
+<div style="flex: 2 1 500px; max-width: 700px">
   <h2>Get to know me!</h2>
   <p>
     I am a current Master's student in the MGIS program at the University of Minnesota Twin Cities (est. graduation Spring 2027), and have previously earned a B.S. from the Environmental Geosciences program at the UMN's College of Science and Engineering. Thus, I am interested in how GIS principles and technology can be leveraged to solve environmental problems.
@@ -32,4 +40,5 @@ excerpt: "Automating GIS Workflows for Environmental Applications"
     </a>
   </p>
 </div>
-</section>
+</div>
+</div>
