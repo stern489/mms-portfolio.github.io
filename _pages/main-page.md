@@ -12,8 +12,8 @@ header:
           url: "/contact/" 
 excerpt: "Automating GIS Workflows for Environmental Applications"
 ---
-<div style="width:100%; background-color: #ADD8E6; padding: 4rem 2rem; display: flex; justify-content: center; iutline: 3px solid #57B9FF" >
-  <div style = "display:flex; flex-wrap: wrap; align-items: center; justify-content: center;gap:3rem; max-width:1200px; width: 85%;">
+<div style="width:100%; background-color: #ADD8E6; padding: 4rem 2rem; display: flex; justify-content: center; outline: 3px solid #57B9FF" >
+  <div style = "display:flex; flex-wrap: wrap; align-items: center; justify-content: center;gap:3rem; max-width:1200px; width: 100%;">
 
 <!-- Headshot -->
 <div style = "flex: 1 1 300px; display: flex; justify-content: center;">
