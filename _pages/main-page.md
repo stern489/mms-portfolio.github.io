@@ -1,6 +1,6 @@
 ---
 title: "Miles Sterner"
-permalink: /Main Page/
+permalink: /
 layout: splash
 header: 
     overlay_image: /assets/images/header.jpeg
