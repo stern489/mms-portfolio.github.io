@@ -4,6 +4,7 @@ permalink: /
 layout: splash
 header: 
     overlay_image: /assets/images/header.jpeg
+    style: "background-size: contain; background-position: top center; height: auto; min-height: 400px;" 
     actions:
         - label: "View Previous Projects"
           url: "/projects/"
@@ -11,7 +12,7 @@ header:
           url: "/contact/" 
 excerpt: "Automating GIS Workflows for Environmental Applications"
 ---
-<div style="width:85%; background-color: #ADD8E6; padding: 4rem 2rem; display: flex; justify-content: center;">
+<div style="width:100%; background-color: #ADD8E6; padding: 4rem 2rem; display: flex; justify-content: center; iutline: 3px solid #57B9FF" >
   <div style = "display:flex; flex-wrap: wrap; align-items: center; justify-content: center;gap:3rem; max-width:1200px; width: 85%;">
 
 <!-- Headshot -->
