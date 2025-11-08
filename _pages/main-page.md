@@ -12,7 +12,7 @@ header:
 excerpt: "Automating GIS Workflows for Environmental Applications"
 ---
 <section style = "display: flex; align-items: center; gap: 2rem; margin-top: 3rem; flex-wrap: wrap;">
-<img src ="/assets/images/headshot.jpg" style="width: 200px; height: 200px; border-radius: 50%; object-fit: cover; box-shadow: 0 4px 10px rgba(0,0,0,0.15);">
+<img src ="{{ '/assets/images/headshot.jpg' | relative_url }}" style="width: 200px; height: 200px; border-radius: 50%; object-fit: cover; box-shadow: 0 4px 10px rgba(0,0,0,0.15);">
 <div style="max-width: 600px">
   <h2>Get to know me!</h2>
   <p>
