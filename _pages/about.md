@@ -31,12 +31,6 @@ a:hover div {
     </a>
   </div>
 
-<style>
-a:hover div {
-  opacity: 1;
-}
-</style>
-
   <div style="flex: 1 1 300px; max-width: 350px; text-align: center;">
     <h3 style="margin-bottom: 1rem;">Example Project Two</h3>
     <a href="#" style="display: block; position: relative; border-radius: 10px; overflow: hidden; text-decoration: none; color: inherit;">
@@ -53,12 +47,6 @@ a:hover div {
     </a>
   </div>
 
-<style>
-a:hover div {
-  opacity: 1;
-}
-</style>
-
   <div style="flex: 1 1 300px; max-width: 350px; text-align: center;">
     <h3 style="margin-bottom: 1rem;">Example Project Three</h3>
     <a href="#" style="display: block; position: relative; border-radius: 10px; overflow: hidden; text-decoration: none; color: inherit;">
@@ -74,5 +62,4 @@ a:hover div {
       </div>
     </a>
   </div>
-
 </div>
