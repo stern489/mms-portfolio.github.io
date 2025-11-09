@@ -5,9 +5,13 @@ layout: splash
 header:
     overlay_image: /assets/images/GIS-Data-Header.png
     overlay_filter: 0.3
-    caption: "Previous Work Examples"
+    caption: "Image Source: Tri-County Regional Planning Commission"
 ---
-
+<style>
+    a:hover div {
+    opacity: 1;
+    }
+</style>
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 2rem; padding: 3rem 2rem;">
 
   <div style="flex: 1 1 300px; max-width: 350px; text-align: center;">
@@ -23,11 +27,6 @@ header:
         <p>Description of Project One</p>
       </div>
     </a>
-    <style>
-      a:hover div {
-        opacity: 1;
-      }
-    </style>
   </div>
 
   <div style="flex: 1 1 300px; max-width: 350px; text-align: center;">
