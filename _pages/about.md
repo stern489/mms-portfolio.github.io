@@ -8,7 +8,7 @@ header:
     caption: "Image Source: Tri-County Regional Planning Commission"
 ---
 <style>
-a:hover div {
+a:hover > div {
   opacity: 1;
 }
 </style>
