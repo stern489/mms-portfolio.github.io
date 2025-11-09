@@ -1,6 +1,6 @@
 main:
-  - title: "About Me"
-    url: /Main Page/
+  - title: "Home"
+    url: /
   - title: "Projects"
     url: /projects/
   - title: "Contact Me"

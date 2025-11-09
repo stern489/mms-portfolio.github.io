@@ -25,12 +25,17 @@ a:hover div {
                   background: rgba(0, 0, 0, 0.6); color: white; opacity: 0;
                   display: flex; align-items: center; justify-content: center;
                   transition: opacity 0.3s ease; padding: 1rem; text-align: center;
-                  z-index: 2">
+                  z-index: 2;">
         <p>Description of Project One</p>
       </div>
     </a>
-
   </div>
+
+<style>
+a:hover div {
+  opacity: 1;
+}
+</style>
 
   <div style="flex: 1 1 300px; max-width: 350px; text-align: center;">
     <h3 style="margin-bottom: 1rem;">Example Project Two</h3>
@@ -41,11 +46,18 @@ a:hover div {
       <div style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; 
                   background: rgba(0, 0, 0, 0.6); color: white; opacity: 0;
                   display: flex; align-items: center; justify-content: center;
-                  transition: opacity 0.3s ease; padding: 1rem; text-align: center;">
+                  transition: opacity 0.3s ease; padding: 1rem; text-align: center;
+                  z-index: 2;">
         <p>Description of Project Two.</p>
       </div>
     </a>
   </div>
+
+<style>
+a:hover div {
+  opacity: 1;
+}
+</style>
 
   <div style="flex: 1 1 300px; max-width: 350px; text-align: center;">
     <h3 style="margin-bottom: 1rem;">Example Project Three</h3>
@@ -56,7 +68,8 @@ a:hover div {
       <div style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; 
                   background: rgba(0, 0, 0, 0.6); color: white; opacity: 0;
                   display: flex; align-items: center; justify-content: center;
-                  transition: opacity 0.3s ease; padding: 1rem; text-align: center;">
+                  transition: opacity 0.3s ease; padding: 1rem; text-align: center;
+                  z-index: 2;">
         <p>Description of Project Three</p>
       </div>
     </a>
