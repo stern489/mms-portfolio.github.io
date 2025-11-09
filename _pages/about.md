@@ -8,8 +8,8 @@ header:
     caption: "Image Source: Tri-County Regional Planning Commission"
 ---
 <style>
-a:hover > div {
-  opacity: 1;
+a:hover div.overlay {
+  opacity: 1 !important;
 }
 </style>
 
@@ -21,7 +21,7 @@ a:hover > div {
       <img src="{{ '/assets/images/gis-integration.jpg' | relative_url }}" 
            alt="Example Project"
            style="width: 100%; height: 250px; object-fit: cover; border-radius: 10px;">
-      <div style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; 
+      <div class="overlay" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; 
                   background: rgba(0, 0, 0, 0.6); color: white; opacity: 0;
                   display: flex; align-items: center; justify-content: center;
                   transition: opacity 0.3s ease; padding: 1rem; text-align: center;
@@ -38,7 +38,7 @@ a:hover > div {
       <img src="{{ '/assets/images/gis-integration.jpg' | relative_url }}" 
            alt="Flood Risk Mapping Project"
            style="width: 100%; height: 250px; object-fit: cover; border-radius: 10px;">
-      <div style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; 
+      <div class="overlay" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; 
                   background: rgba(0, 0, 0, 0.6); color: white; opacity: 0;
                   display: flex; align-items: center; justify-content: center;
                   transition: opacity 0.3s ease; padding: 1rem; text-align: center;
