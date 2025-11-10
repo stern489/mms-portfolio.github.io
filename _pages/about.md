@@ -25,7 +25,7 @@ a:hover div.overlay {
                   background: rgba(0, 0, 0, 0.6); color: white; opacity: 0;
                   display: flex; align-items: center; justify-content: center;
                   transition: opacity 0.3s ease; padding: 1rem; text-align: center;
-                  z-index: 2;">
+                  z-index: 2; font-size: 14px;">
         <p>Stylized ArcGIS Online Web Map depicting imparied streams in Minnesota. This map was created for GIS 5574 (WebGIS). [This was not a high-effort project, the standards of displayed projects as my portfolio progresses will be much higher].</p>
       </div>
     </a>
