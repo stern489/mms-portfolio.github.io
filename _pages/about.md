@@ -16,9 +16,9 @@ a:hover div.overlay {
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 2rem; padding: 3rem 2rem;">
 
   <div style="flex: 1 1 300px; max-width: 350px; text-align: center;">
-    <h3 style="margin-bottom: 1rem;">Example Project One</h3>
-    <a href="#" style="display: block; position: relative; border-radius: 10px; overflow: hidden; text-decoration: none; color: inherit;">
-      <img src="{{ '/assets/images/gis-integration.jpg' | relative_url }}" 
+    <h3 style="margin-bottom: 1rem;">Web Map - Impaired Streams (MN)</h3>
+    <a href="https://umn.maps.arcgis.com/apps/mapviewer/index.html?webmap=39344d1e8dbc4471a81ceec5dd4a8415" style="display: block; position: relative; border-radius: 10px; overflow: hidden; text-decoration: none; color: inherit;">
+      <img src="{{ '/assets/images/project_one.png' | relative_url }}" 
            alt="Example Project"
            style="width: 100%; height: 250px; object-fit: cover; border-radius: 10px;">
       <div class="overlay" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; 
@@ -26,7 +26,7 @@ a:hover div.overlay {
                   display: flex; align-items: center; justify-content: center;
                   transition: opacity 0.3s ease; padding: 1rem; text-align: center;
                   z-index: 2;">
-        <p>Description of Project One</p>
+        <p>Stylized ArcGIS Online Web Map depicting imparied streams in Minnesota. This map was created for GIS 5574 (WebGIS). [This was not a high-effort project, the standards of displayed projects as my portfolio progresses will be much higher].</p>
       </div>
     </a>
 
