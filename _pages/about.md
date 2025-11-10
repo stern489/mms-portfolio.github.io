@@ -16,7 +16,7 @@ a:hover div.overlay {
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 2rem; padding: 3rem 2rem;">
 
   <div style="flex: 1 1 300px; max-width: 350px; text-align: center;">
-    <h3 style="margin-bottom: 1rem;">Web Map - Impaired Streams (MN)</h3>
+    <h3 style="margin-bottom: 1rem;">Web Map - Impaired Streams</h3>
     <a href="https://umn.maps.arcgis.com/apps/mapviewer/index.html?webmap=39344d1e8dbc4471a81ceec5dd4a8415" style="display: block; position: relative; border-radius: 10px; overflow: hidden; text-decoration: none; color: inherit;">
       <img src="{{ '/assets/images/project_one.png' | relative_url }}" 
            alt="Example Project"
