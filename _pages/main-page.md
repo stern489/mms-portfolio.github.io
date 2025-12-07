@@ -3,13 +3,13 @@ title: "Miles Sterner"
 permalink: /
 layout: splash
 header: 
-    overlay_image: /assets/images/header.jpeg
-    style: "background-size: contain; background-position: top center; height: auto; min-height: 400px;" 
-    actions:
-        - label: "View Work Samples"
-          url: "/projects/"
-        - label: "Contact Me"
-          url: "/contact/" 
+  overlay_image: /assets/images/header.jpeg
+  style: "background-size: contain; background-position: top center; height: auto; min-height: 400px;"
+  actions:
+    - label: "View Work Samples"
+      url: "/projects/"
+    - label: "Contact Me"
+      url: "/contact/" 
 excerpt: "Automating GIS Workflows for Environmental Applications"
 ---
 <div style="width:100%; background-color: #ADD8E6; padding: 4rem 2rem; display: flex; justify-content: center; border: 3px solid #57B9FF" >
