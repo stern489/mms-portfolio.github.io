@@ -8,12 +8,8 @@ header:
     actions:
         - label: "View Work Samples"
           url: "/projects/"
-	  class: "btn btn--primary"
-          style: "backdrop-filter: blur(2px); background: rgba(0, 122, 210, 0.75);
         - label: "Contact Me"
           url: "/contact/" 
-	  class: "btn btn--primary"
-          style: "backdrop-filter: blur(2px); background: rgba(0, 122, 210, 0.75);
 excerpt: "Automating GIS Workflows for Environmental Applications"
 ---
 <div style="width:100%; background-color: #ADD8E6; padding: 4rem 2rem; display: flex; justify-content: center; border: 3px solid #57B9FF" >
