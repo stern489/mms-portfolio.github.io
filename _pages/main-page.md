@@ -15,7 +15,7 @@ excerpt: "Automating GIS Workflows for Environmental Applications"
 <style>
 a.btn.btn--light-outline {
   background-color: rgba(250, 250, 245, 0.55) !important;
-  color: #111 !important;
+  color: #696969 !important;
 }
 
 a.btn.btn--light-outline:hover {
