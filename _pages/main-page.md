@@ -13,8 +13,7 @@ header:
 excerpt: "Automating GIS Workflows for Environmental Applications"
 ---
 <style>
-.page__hero--overlay .page__hero__actions .btn,
-.page__hero--overlay .page__hero__actions .btn--primary{
+.page__hero--overlay .page__hero__actions *{
   background: rgba(250, 250, 245, 0.75) !important;
   color: #111 !important;
 }
