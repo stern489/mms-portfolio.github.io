@@ -1,6 +1,6 @@
 ---
 permalink: /projects/
-title: "Previous Work Examples"
+title: "Work Samples"
 layout: splash
 header:
     overlay_image: /assets/images/GIS-Data-Header.png
