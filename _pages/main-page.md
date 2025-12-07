@@ -13,15 +13,21 @@ header:
 excerpt: "Automating GIS Workflows for Environmental Applications"
 ---
 <style>
-  /* This CSS will only apply to pages using this layout */
-  .page-header .actions a {
-    background-color: #000000; /* Solid black */
-    opacity: 0.8;              /* 80% opacity */
-    color: #ffffff;
-    padding: 10px 20px; /* Makes them look like buttons */
-    border-radius: 5px;
-    display: inline-block;
-  }
+/* Target buttons with btn--light-outline */
+a.btn.btn--light-outline {
+  background-color: rgba(250, 250, 245, 0.85) !important;
+  color: #111 !important;
+  border-radius: 6px !important;
+  padding: 0.5rem 1rem !important;
+  border: 1px solid rgba(0,0,0,0.1) !important;
+  text-decoration: none !important;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.06) !important;
+}
+
+/* Hover effect */
+a.btn.btn--light-outline:hover {
+  background-color: rgba(245, 243, 238, 0.95) !important;
+}
 </style>
 
 <div style="width:100%; background-color: #ADD8E6; padding: 4rem 2rem; display: flex; justify-content: center; border: 3px solid #57B9FF" >
