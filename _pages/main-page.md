@@ -13,8 +13,8 @@ header:
 excerpt: "Automating GIS Workflows for Environmental Applications"
 ---
 <style>
-a[href="/projects/"],
-a[href="/contact/"] {
+.page__hero--overlay .page__hero__actions .btn
+.page__hero--overlay .page__hero__actions .btn--primary{
   background: rgba(250, 250, 245, 0.75) !important;
   color: #111 !important;
 }
@@ -45,7 +45,7 @@ a[href="/contact/"] {
     <a href ="{{ '/assets/attachments/resume.pdf' | relative_url }}" target="_blank"
       style = "display: inline-block; background-color: #007acc; color: white; padding: 0.6rem 1.2rem;
       border-radius: 6px; font-weight: 600;">
-      Download Resume
+      View Resume
     </a>
   </p>
 </div>
