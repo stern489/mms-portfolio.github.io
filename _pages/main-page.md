@@ -13,18 +13,11 @@ header:
 excerpt: "Automating GIS Workflows for Environmental Applications"
 ---
 <style>
-/* Target buttons with btn--light-outline */
 a.btn.btn--light-outline {
-  background-color: rgba(250, 250, 245, 0.85) !important;
+  background-color: rgba(250, 250, 245, 0.55) !important;
   color: #111 !important;
-  border-radius: 6px !important;
-  padding: 0.5rem 1rem !important;
-  border: 1px solid rgba(0,0,0,0.1) !important;
-  text-decoration: none !important;
-  box-shadow: 0 2px 6px rgba(0,0,0,0.06) !important;
 }
 
-/* Hover effect */
 a.btn.btn--light-outline:hover {
   background-color: rgba(245, 243, 238, 0.95) !important;
 }
