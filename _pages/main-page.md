@@ -12,6 +12,14 @@ header:
       url: "/contact/" 
 excerpt: "Automating GIS Workflows for Environmental Applications"
 ---
+<style>
+a[href="/projects/"],
+a[href="/contact/"] {
+  background: rgba(250, 250, 245, 0.75) !important;
+  color: #111 !important;
+}
+</style>
+
 <div style="width:100%; background-color: #ADD8E6; padding: 4rem 2rem; display: flex; justify-content: center; border: 3px solid #57B9FF" >
   <div style = "display:flex; flex-wrap: wrap; align-items: center; justify-content: center;gap:3rem; max-width:1200px; width: 100%;">
 
