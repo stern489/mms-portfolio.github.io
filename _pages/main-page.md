@@ -8,18 +8,20 @@ header:
   actions:
     - label: "View Work Samples"
       url: "/projects/"
-      class: "btn--secondary"
     - label: "Contact Me"
       url: "/contact/" 
-      class: "btn--secondary"
 excerpt: "Automating GIS Workflows for Environmental Applications"
 ---
 <style>
-.page__hero--overlay .page__hero__actions .btn,
-.page__hero--overlay .page__hero__actions .btn--secondary{
-  background: rgba(250, 250, 245, 0.75) !important;
-  color: #111 !important;
-}
+  /* This CSS will only apply to pages using this layout */
+  .page-header .actions a {
+    background-color: #000000; /* Solid black */
+    opacity: 0.8;              /* 80% opacity */
+    color: #ffffff;
+    padding: 10px 20px; /* Makes them look like buttons */
+    border-radius: 5px;
+    display: inline-block;
+  }
 </style>
 
 <div style="width:100%; background-color: #ADD8E6; padding: 4rem 2rem; display: flex; justify-content: center; border: 3px solid #57B9FF" >
