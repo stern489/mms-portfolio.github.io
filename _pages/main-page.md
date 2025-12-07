@@ -8,12 +8,15 @@ header:
   actions:
     - label: "View Work Samples"
       url: "/projects/"
+      class: "btn--secondary"
     - label: "Contact Me"
       url: "/contact/" 
+      class: "btn--secondary"
 excerpt: "Automating GIS Workflows for Environmental Applications"
 ---
 <style>
-.page__hero--overlay .page__hero__actions *{
+.page__hero--overlay .page__hero__actions .btn,
+.page__hero--overlay .page__hero__actions .btn--secondary{
   background: rgba(250, 250, 245, 0.75) !important;
   color: #111 !important;
 }
