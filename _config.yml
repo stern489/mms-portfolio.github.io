@@ -61,8 +61,8 @@ footer:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/stern489"
-    - label: "Linkedin"
-      icon: "{{'/assets/images/linked-in.png' | relative_url }}"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/miles-sterner-186093136/"
 
 
