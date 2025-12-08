@@ -8,10 +8,10 @@ header:
     caption: "Image Source: Tri-County Regional Planning Commission"
 ---
 <p style="max-width: 800px; margin: 2rem auto; font-size: 1rem; line-height: 1.5; text-align: center;">
-  The projects showcased below demonstrate: 
-  1. How I have successfully leveraged my undergraduate background in geoscience within my GIS work.
-  2. My experience distributing automated GIS workflows via repositories such as GitHub.
-  3. The sheer variety of topics I have covered in my professional development.
+  The projects showcased below demonstrate:<br>
+  1. How I have successfully leveraged my undergraduate background in geoscience within my GIS work.<br>
+  2. My experience distributing automated GIS workflows via repositories such as GitHub.<br>
+  3. The sheer variety of topics I have covered in my professional development.<br>
   (2 and 3 will be 'truer' as I add more projects in the future)
 </p>
 <style>
