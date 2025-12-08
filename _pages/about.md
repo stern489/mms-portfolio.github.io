@@ -7,7 +7,7 @@ header:
     overlay_filter: 0.3
     caption: "Image Source: Tri-County Regional Planning Commission"
 ---
-<p style="max-width: 800px; margin: 2rem auto; font-size: 1rem; line-height: 1.5; text-align: center;">
+<p style="max-width: 1200px; margin: 2rem auto; font-size: 1rem; line-height: 1.5; text-align: center;">
   The projects showcased below demonstrate:<br>
   1. How I have successfully leveraged my undergraduate background in geoscience within my GIS work.<br>
   2. My experience distributing automated GIS workflows via repositories such as GitHub.<br>
